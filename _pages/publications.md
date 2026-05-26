@@ -131,16 +131,16 @@ author_profile: false
 <div class="pub-card">
   <div class="pub-title">Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic</div>
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
-  <div class="pub-venue"><em>Laser &amp; Photonics Reviews</em></div>
+  <div class="pub-venue"><em>Intelligent Opto-Electronics</em></div>
   <div class="pub-tags">
-    <span class="pub-tag">In Revision</span>
+    <span class="pub-tag">Accepted</span>
   </div>
 </div>
 
 <div class="pub-card">
   <div class="pub-title">MEMS Programmable Metasurface Tag with Updatable Terahertz Spectral Codebooks for High-Accuracy Identification and Authentication</div>
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup> and <strong>Jiahao Li<sup>†</sup></strong></div>
-  <div class="pub-venue"><em>Advanced Functional Materials</em></div>
+  <div class="pub-venue"><em>Small</em></div>
   <div class="pub-tags">
     <span class="pub-tag">Under Review</span>
   </div>
