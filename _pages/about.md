@@ -20,7 +20,7 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 <div class="news-list">
 <a class="news-card" href=" " target="_blank" rel="noopener noreferrer">
     <div class="news-image">
-      <img src="/images/news-2026-aom.jpg" alt="Advanced Optical Materials paper">
+      <img src="/images/news-2026-IOE.png" alt="Advanced Optical Materials paper">
     </div>
     <div class="news-content">
       <div class="news-date">2026 · Accepted</div>
