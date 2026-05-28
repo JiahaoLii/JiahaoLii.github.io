@@ -27,7 +27,7 @@ My current research focuses on Programmable photonic devices, opto-logic devices
       <h3>Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic</h3>
       <p class="news-meta"><em>Intelligent Opto-Electronics</em></p>
       <p>
-       This work introduces an inverse-configuration programming strategy for MEMS reconfigurable terahertz metamaterials, enabling universal opto-logic functions through programmable spectral responses. Instead of manually interpreting spectra, the method directly searches for device configurations that satisfy target truth tables, offering a flexible route toward reconfigurable terahertz optical logic.
+       This work introduces an inverse-configuration programming strategy for MEMS reconfigurable terahertz metamaterials, enabling universal opto-logic functions through programmable spectral responses.
       </p>
     </div>
   </a>
