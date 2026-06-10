@@ -19,6 +19,20 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 
 <div class="news-list">
 
+  <a class="news-card" href="https://arxiv.org/abs/2606.08246" target="_blank" rel="noopener noreferrer">
+    <div class="news-image">
+      <img src="/images/news-2026-awpl.jpg" alt="Advanced Optical Materials paper">
+    </div>
+    <div class="news-content">
+      <div class="news-date">2026 · Published</div>
+      <h3>Spatio-sequential recurrent network for 3-d tunnel propagation modeling</h3>
+      <p class="news-meta"><em>IEEE Antennas and Wireless Propagation Letters</em></p>
+      <p>
+        Fine-mesh parabolic wave equation (PWE) simulations are high-fidelity but time-consuming, which limits real-time tunnel propagation analysis and motivates coarse-to-fine reconstruction. This paper proposes a U-shaped gated spatio-sequential recurrent neural network (UG-SSRNN), a spatio-sequential reconstruction model for tunnel electromagnetic fields. 
+      </p>
+    </div>
+  </a>
+
 
   <a class="news-card" href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.71178" target="_blank" rel="noopener noreferrer">
     <div class="news-image">
