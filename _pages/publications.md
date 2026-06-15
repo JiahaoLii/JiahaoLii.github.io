@@ -124,7 +124,7 @@ author_profile: false
   <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
   <div class="pub-venue"><em>IEEE Antennas and Wireless Propagation Letters</em></div>
   <div class="pub-tags">
-    <span class="pub-tag">In Revision</span>
+    <span class="pub-tag">Published</span>
   </div>
 </div>
 
