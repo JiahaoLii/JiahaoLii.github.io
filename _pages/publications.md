@@ -133,7 +133,7 @@ author_profile: false
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
   <div class="pub-venue"><em>Laser & Photonics Reviews</em></div>
   <div class="pub-tags">
-    <span class="pub-tag">In Revision</span>
+    <span class="pub-tag">Accepted</span>
   </div>
 </div>
 
