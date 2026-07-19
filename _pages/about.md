@@ -18,7 +18,7 @@ My current research focuses on Programmable photonic devices, opto-logic devices
 # News
 
 <div class="news-list">
-<a class="news-card" href=" " target="_blank" rel="noopener noreferrer">
+<a class="news-card" href=" https://doi.org/10.1002/lpor.71521 " target="_blank" rel="noopener noreferrer">
     <div class="news-image">
       <img src="/images/news-2026-IOE.png" alt="Advanced Optical Materials paper">
     </div>
