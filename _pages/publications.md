@@ -133,12 +133,12 @@ author_profile: false
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
   <div class="pub-venue"><em>Laser & Photonics Reviews</em></div>
   <div class="pub-tags">
-    <span class="pub-tag">Accepted</span>
+    <span class="pub-tag">Published</span>
   </div>
 </div>
 
 <div class="pub-card">
-  <div class="pub-title">MEMS Programmable Metasurface Tag with Updatable Terahertz Spectral Codebooks for High-Accuracy Identification and Authentication</div>
+  <div class="pub-title">MEMS Programmable Metasurface Tag for Identification and Authentication</div>
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup> and <strong>Jiahao Li<sup>†</sup></strong></div>
   <div class="pub-venue"><em>ACS Applied Materials & Interfaces</em></div>
   <div class="pub-tags">
