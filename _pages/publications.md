@@ -111,6 +111,24 @@ author_profile: false
 <h2 class="pub-year">2026</h2>
 
 <div class="pub-card">
+  <div class="pub-title">Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic</div>
+  <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
+  <div class="pub-venue"><em>Laser & Photonics Reviews</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag">Published</span>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">A Hybrid Analytical-Neural Residual Surrogate for Fast Radio Propagation Prediction over Irregular Terrain</div>
+  <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
+  <div class="pub-venue"><em>IEEE Transactions on Antennas and Propagation</em></div>
+  <div class="pub-tags">
+    <span class="pub-tag">Under Review</span>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="pub-title">Electrostatically Programmable Terahertz Metadevice for Parallel Opto-Logic Functions</div>
   <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, and Yunche Zhu</div>
   <div class="pub-venue"><em>Advanced Optical Materials</em></div>
@@ -123,15 +141,6 @@ author_profile: false
   <div class="pub-title">Spatio-Sequential Recurrent Network for 3-D Tunnel Propagation Modeling</div>
   <div class="pub-authors"><strong>Jiahao Li</strong>, Jingxin Xue, Keqi Ni, Kunyu Wu, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
   <div class="pub-venue"><em>IEEE Antennas and Wireless Propagation Letters</em></div>
-  <div class="pub-tags">
-    <span class="pub-tag">Published</span>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-title">Inverse Configuration Programming of MEMS Reconfigurable Terahertz Metamaterial for Universal Opto-Logic</div>
-  <div class="pub-authors">Yu-Sheng Lin<sup>†,&#42;</sup>, <strong>Jiahao Li<sup>†</sup></strong>, Hao Qin, and Yunche Zhu</div>
-  <div class="pub-venue"><em>Laser & Photonics Reviews</em></div>
   <div class="pub-tags">
     <span class="pub-tag">Published</span>
   </div>
@@ -160,7 +169,7 @@ author_profile: false
   <div class="pub-authors">Jingxin Xue, <strong>Jiahao Li</strong>, Hao Qin<sup>&#42;</sup>, Xinyue Zhang, and Xingqi Zhang</div>
   <div class="pub-venue"><em>IEEE Transactions on Antennas and Propagation</em></div>
   <div class="pub-tags">
-    <span class="pub-tag">Under Review</span>
+    <span class="pub-tag">In Revisions</span>
   </div>
 </div>
 
