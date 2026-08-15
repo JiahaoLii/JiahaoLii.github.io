@@ -11,8 +11,7 @@ redirect_from:
 
 I am an undergraduate student in Electronic and Computer Engineering at Sichuan University. My research interests lie at the intersection of photonics and artificial intelligence.
 
-My current research focuses on Programmable photonic devices, opto-logic devices, and AI for science. I am planning to focus on silicon photonics and optical computing in the future.
-
+My current research focuses on Programmable photonic devices, opto-logic devices, and AI for science. 
 
 
 # News
