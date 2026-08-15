@@ -200,7 +200,7 @@ My research lies at the intersection of photonics and artificial intelligence, w
 <div class="future-box">
   <h2>Future Interests</h2>
   <p>
-    I am interested in extending these methods toward silicon photonics, optical neural networks, and AI-assisted inverse design for integrated photonic devices.
+    I am interested in extending these methods toward optical neural networks, and AI-assisted inverse design for integrated photonic devices.
   </p>
 </div>
 
